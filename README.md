@@ -22,7 +22,7 @@ This project is an automated workflow built with n8n that:
 4. Output: Structured response
 
 ## 📁 Files
-- `workflow.json`: Exported n8n workflow
+- `My workflow 2.json`: Exported n8n workflow
 
 ## 💡 Use Case
 Helps prioritize emails and reduce information overload.
